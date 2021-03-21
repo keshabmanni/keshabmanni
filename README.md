@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @keshabmanni
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🤵 My Portfolio: https://keshabmanni.github.io
+- 👀 I’m interested in Web Development, Software Development
+- 🌱 I’m currently learning Advanced JAVA
+<!--- 💞️ I’m looking to collaborate on ...--->
+- 📫 How to reach me : [Email](keshabmanni22@gmail.com)
 
 <!---
 keshabmanni/keshabmanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
