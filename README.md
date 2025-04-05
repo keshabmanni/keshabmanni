@@ -1,7 +1,7 @@
 - 🙏 Hi, I’m [@keshabmanni](https://keshab.co.in) 🤵
-- 👀 I’m interested in Web Development, Software Development, RPA UiPath and Rasa ChatBot
-- 🌱 I’m currently learning Rasa ChatBot, reactJS
-<!--- 💞️ I’m looking to collaborate on ...--->
+- I have experiance working with UiPath, Power Automate, Python, Nextjs, Rasa Chatbot etc.
+- 👀 I’m interested in IPA(Intelligent Process Automation), GenAI, Agentic AI.
+- 🌱 I’m currently learning Agentic AI and IPA.
 - 📫 How to reach me : [Email](mailto:keshabmanni22@gmail.com)
 
 <!---
